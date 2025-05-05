@@ -1,4 +1,4 @@
-- [Mẹo Visual Studio]()
+- [Mẹo Visual Studio](https://github.com/kietnguyen336/ly-thuyet-cpp-sieu-co-ban/blob/main/VSHotKeys.md)
 - [Lý thuyết c++ cơ bản dành cho học sinh cấp 1]()
     - [if...else]()
     - [Vòng lặp For]()

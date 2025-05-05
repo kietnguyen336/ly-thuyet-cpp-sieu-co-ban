@@ -25,3 +25,18 @@ int mang_mot_chieu[10];
 float b[1000];|Khai báo mảng chứa các số float tối đa 1000 phần tử
 double c[200];|Khai báo mảng chứa các số double tối đa 200 phần tử
 char d[20000];|Khai báo mảng chứa các ký tự tối đa 20000 phần tử
+
+## Nên nhớ
+- Vị trí phần tử trong mảng luôn bắt đầu từ 0
+```c++
+int a[5] = {5, 3, 6, 8, 10};
+```
+|Vị trí|Giá trị|
+|-|-|
+|0|5|
+|1|3|
+|2|6|
+|3|8|
+|4|10|
+
+
